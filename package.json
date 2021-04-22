@@ -1,0 +1,24 @@
+{
+  "name": "netlifyCMS",
+  "version": "1.0.0",
+  "description": "![11ty logo](https://www.11ty.dev/img/open-graph.jpg)\r # Learning 11ty",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "sass --watch styles:_site/styles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grizhlieCodes/11ty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grizhlieCodes/11ty/issues"
+  },
+  "homepage": "https://github.com/grizhlieCodes/11ty#readme",
+  "devDependencies": {
+    "sass": "^1.32.11"
+  }
+}
